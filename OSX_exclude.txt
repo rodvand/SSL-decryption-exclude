@@ -1,3 +1,5 @@
 gsas.apple.com
 gsps.apple.com
 go.paloaltonetworks.com
+swdist.apple.com
+swscan.apple.com
